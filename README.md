@@ -1,7 +1,7 @@
-#hangry-backend using Flask
+# hangry-backend using Flask
 
 ## Python Workflow
 
-###To do: 
+### To do: 
 
 * Do everything
